@@ -1,2 +1,2 @@
-Patika C# Ödev2 - Operatorler
+# Patika C# Ödev2 - Operatorler
 <www.patika.dev>
